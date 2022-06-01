@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">201B172_TICTACTOE</string>
+    <string name="todo">TODO</string>
+<!--    <string name="todo">TODO</string>-->
+<!--    <string name="todo">TODO</string>-->
+<!--    <string name="todo">TODO</string>-->
+<!--    <string name="todo">TODO</string>-->
+<!--    <string name="todo">TODO</string>-->
+    <string name="reset">RESET</string>
+</resources>
